@@ -1,0 +1,14 @@
+{
+  "name": "coursera-stanford-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Claudia Matosa <claudiamatosa@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --opts test/.mocha.opts"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
